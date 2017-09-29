@@ -1,0 +1,13 @@
+{
+  "name": "nuxt-postcss-demo",
+  "version": "1.0.0",
+  "description": "Nuxt.js project",
+  "author": "Smadey<smadey@163.com>",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt --config-file ./src/nuxt.config.js"
+  },
+  "dependencies": {
+    "nuxt": "^1.0.0-rc11"
+  }
+}
