@@ -30,6 +30,6 @@ module.exports = {
   build: {
     // Now it doesn't work.
     // But rename "postcss.config.js" to "postcss.conf.js" and enable next line, it works
-    postcss: require('./postcss.conf.js'),
+    // postcss: require('./postcss.conf.js'),
   }
 }
